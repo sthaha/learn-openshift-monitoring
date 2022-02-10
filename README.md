@@ -35,6 +35,9 @@ The goal of this repo is to take you on a journey to understanding OpenShift Mon
 
 ## Thanos
 
+### Beyond Docs: Blogs / Talks
+   * [Introduction to Thanos](www.youtube.com/watch?v=j4TAGO019HU)
+
 ## K8S and Prometheus
 ## Prometheus Operator
 ### Prometheus
