@@ -2,7 +2,7 @@
 
 ## Goal
 
-The goal of this repo is to take you through a journey to understand OpenShift Monitoring.
+The goal of this repo is to take you on a journey to understanding OpenShift Monitoring.
 
 ## Why not the docs?
 
@@ -29,13 +29,15 @@ The goal of this repo is to take you through a journey to understand OpenShift M
 
 ### Exercises 
 
+## Thanos
+
 ## K8S and Prometheus
 ## Prometheus Operator
 ### Prometheus
 ### ServiceMonitors
 ### Alerts
 
+## OpenShift Monitoring Stack
 
-## Thanos
 
 ## FAQ / Troubleshooting 
