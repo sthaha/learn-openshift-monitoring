@@ -21,6 +21,10 @@ The goal of this repo is to take you on a journey to understanding OpenShift Mon
 
 ### Exercises 
 
+### Beyond Docs: Blogs / Talks
+   * [Life of an Alert](https://www.youtube.com/watch?v=PUdjca23Qa4)
+
+
 ## Prometheus in HA Mode
 
 ###
